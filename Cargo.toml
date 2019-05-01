@@ -1,0 +1,11 @@
+[package]
+name = "issue-unpack-ruby-tar"
+version = "0.1.0"
+authors = ["Nikolai Vazquez"]
+edition = "2018"
+
+[dependencies]
+bzip2 = "0.3"
+semver = "0.9"
+tar = "0.4"
+ureq = "0.9"
