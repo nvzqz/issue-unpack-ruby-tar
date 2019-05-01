@@ -1,5 +1,7 @@
 # Issue: unpack Ruby via `tar` crate
 
+Made for https://github.com/alexcrichton/tar-rs/issues/195.
+
 When unpacking `ruby-2.6.0.tar.bz2` with the `bzip2` and `tar` crates, the
 following error is produced:
 
